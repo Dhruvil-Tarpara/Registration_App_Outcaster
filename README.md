@@ -4,13 +4,14 @@ User Registration process using Stepper widget
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+#### Flutter App Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<table>
+  <tr>
+    <td></td>
+     </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/121105558/210792934-88d9d246-4ef1-4dde-afed-81dbf03cd439.gif" style="width:200px;"></td>
+    </tr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
